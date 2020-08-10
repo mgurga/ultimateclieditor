@@ -1,0 +1,6 @@
+argparse==1.4.0
+vidstab==1.7.3
+moviepy==1.0.3
+opencv-python==4.3.0.36
+Pillow==7.2.0
+pafy==0.5.5
